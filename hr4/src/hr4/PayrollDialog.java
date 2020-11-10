@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  * Dialogs with JOptionPane
- * @author raphael
+ * @author MehrBarz
  *
  */
 
